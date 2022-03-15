@@ -1,0 +1,12 @@
+{
+  "name": "git-diff-extract",
+  "version": "0.0.0",
+  "main": "./bin/gde.mjs",
+  "bin": {
+    "gde": "./bin/gde.mjs"
+  },
+  "dependencies": {
+    "consola": "^2.15.3",
+    "mri": "^1.2.0"
+  }
+}
